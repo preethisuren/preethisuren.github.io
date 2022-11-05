@@ -1,2 +1,2 @@
 # preethisuren.github.io
-Preethi's personal website
+Hi there! This is Preethi's personal website.
